@@ -14,35 +14,47 @@
 
 **Thoughts:** I was able to create a new github repository, but I would like to know how to point a live server to a github repository. So I can push changes made from my local to github, then pull changes from github to the live server. Brain is feeling a little toast though. I will probably work on something a little easier and try tackling live server stuff tomorrow. 
 
-**Link to work:** 
+### Day 3: October 3, 2022
+
+**Today's Progress**: Research Twitter API - generate/share tweets from a website. The goal is to create a fortune cookie and give the user the option to post their fortune to their twitter account. 
+
+### Day 4: October 5, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Resources**: 
+- [Calculator App](http://www.example.com)
+
+**Resources:** 
+- [How to create a Twitter Bot with Node - using the Twitter API](https://www.youtube.com/watch?v=fD-GRCH_tks)
+
+**Helpful Resources:** 
 - [100 Days of Code](https://www.100daysofcode.com/)
 - [Deleting Credentials via Command Line](https://stackoverflow.com/questions/29297154/github-invalid-username-or-password)
 - [Personal Access Token on Github](https://namespaceit.com/blog/fatal-unable-to-access-the-requested-url-returned-error-403)
 
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
+<!-- ### Day 0: Month 00, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Resources**: 
+- [Calculator App](http://www.example.com) -->
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent. -->
-
-**Link(s) to work**
+**Warm Up Activities**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+3. Javascript String Methods
 
 **Potential Future Projects**
-1. Accessible Form
-2. Calculator [Free Code Camp Tutorial](https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/)
+1. Fortune Cookie
+2. Accessible Form
 3. To Do List
 4. Countdown Timer
-5. Magic 8 Ball
+5. Mad Libs
 6. Snake Game [YouTube Tutorial](https://www.youtube.com/watch?v=QTcIXok9wNY)
+7. Calculator [Free Code Camp Tutorial](https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/)

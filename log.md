@@ -18,23 +18,16 @@
 
 **Today's Progress**: Research Twitter API - generate/share tweets from a website. The goal is to create a fortune cookie and give the user the option to post their fortune to their twitter account. 
 
-### Day 4: October 5, 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
 **Resources**: 
-- [Calculator App](http://www.example.com)
-
-**Resources:** 
 - [How to create a Twitter Bot with Node - using the Twitter API](https://www.youtube.com/watch?v=fD-GRCH_tks)
 
-**Helpful Resources:** 
-- [100 Days of Code](https://www.100daysofcode.com/)
-- [Deleting Credentials via Command Line](https://stackoverflow.com/questions/29297154/github-invalid-username-or-password)
-- [Personal Access Token on Github](https://namespaceit.com/blog/fatal-unable-to-access-the-requested-url-returned-error-403)
+### Day 4: October 9, 2022
 
+**Today's Progress**: Building AIM chat with CSS
+
+**Thoughts**: Just for fun, might add actual chat capability later in the future. 
+
+**Resources**: None
 
 <!-- ### Day 0: Month 00, 2022
 
@@ -43,7 +36,13 @@
 **Thoughts**: 
 
 **Resources**: 
-- [Calculator App](http://www.example.com) -->
+- [Link Text](http://www.example.com) -->
+
+
+**Helpful Resources:** 
+- [100 Days of Code](https://www.100daysofcode.com/)
+- [Deleting Credentials via Command Line](https://stackoverflow.com/questions/29297154/github-invalid-username-or-password)
+- [Personal Access Token on Github](https://namespaceit.com/blog/fatal-unable-to-access-the-requested-url-returned-error-403)
 
 **Warm Up Activities**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)

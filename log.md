@@ -36,7 +36,7 @@
 **Thoughts**: 
 
 **Resources**: 
-- [Link Text](http://www.example.com) -->
+- [Link Text](http://www.example.com) -->`
 
 
 **Helpful Resources:** 

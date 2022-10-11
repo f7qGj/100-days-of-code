@@ -29,6 +29,15 @@
 
 **Resources**: None
 
+### Day 5: October 10, 2022
+
+**Today's Progress**: Building a leaderboard with NodeJS. Successfully can use requests POST, PUT, DELETE, and GET. Need to learn how to make the API call so I can add data to leader board on website. 
+
+**Thoughts**: 
+
+**Resources**: 
+- [Make a Leaderboard API for your game with Node.js, Express & MongoDB](https://sweetcode.io/leaderboard-api-game-nodejs-express-mongodb/)
+
 <!-- ### Day 0: Month 00, 2022
 
 **Today's Progress**: 
@@ -36,7 +45,7 @@
 **Thoughts**: 
 
 **Resources**: 
-- [Link Text](http://www.example.com) -->`
+- [Link Text](http://www.example.com) -->
 
 
 **Helpful Resources:** 
